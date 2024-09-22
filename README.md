@@ -17,7 +17,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/algorius/student-management-system.git
-   cd student-management-system
+   git clone https://github.com/AlgoriusAlhammak/Grading-System-Management.git
+   cd Grading-System-Management
 2. Set up the MySQL database and configure the connection.
 3. Run the application.
