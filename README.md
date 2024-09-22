@@ -12,3 +12,12 @@
 - Add new students and grades.
 - Check student information and grades.
 - Students can log in to view their marks and personal information.
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/algorius/student-management-system.git
+   cd student-management-system
+2. Set up the MySQL database and configure the connection.
+3. Run the application.
